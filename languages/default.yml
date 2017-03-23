@@ -8,7 +8,7 @@ author: Author
 
 menu:
   home: Home
-  archives: Archives
+  archives: Blog
   categories: Categories
   tags: Tags
   about: About
@@ -16,6 +16,9 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
+  java: Java
+  programming: Progamming
+  life: Life
 
 sidebar:
   overview: Overview
