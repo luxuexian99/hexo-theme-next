@@ -304,7 +304,7 @@ mathjax:
 #hypercomments_id:
 
 # Gentie productKey
-gentie_productKey: d1f3fe001bf242d990bb6bf710d0db4f
+#gentie_productKey: d1f3fe001bf242d990bb6bf710d0db4f
 
 # changyan
 changyan:
@@ -357,7 +357,7 @@ add_this_id: ra-58d247635b3933ad
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
