@@ -251,8 +251,8 @@ post_wordcount:
 # Declare license on posts
 post_copyright:
   enable: true
-  license: CC BY-NC-SA 3.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
@@ -298,7 +298,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname: zerotobit
+disqus_shortname: zerotobit
 
 # Hypercomments
 #hypercomments_id:
